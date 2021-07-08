@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{4ed55f27-dcc9-4e99-8e71-3b140add69ca}">
+		<property name="assetPath">
+			<value>Tavalodet.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>301.30214583333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{47024fbf-fbae-4c50-814b-1f23c3dca987}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{c9d3af61-baf1-4182-9053-ce7bfbf09c2e}">
+		<property name="assetPath">
+			<value>RickRoll.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>212.09106575963719</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{47024fbf-fbae-4c50-814b-1f23c3dca987}</destination>
+		</relationship>
+	</object>
+</objects>
